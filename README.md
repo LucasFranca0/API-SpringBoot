@@ -4,7 +4,7 @@
 
 ## Componentes
 * IntelliJ CE
-* Java Open JDK 14
+* Java Open JDK 17
 * Spring Boot
 * Banco MySQL
 * DbVizualizer
